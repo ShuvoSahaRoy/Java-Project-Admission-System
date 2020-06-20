@@ -1280,7 +1280,7 @@ public class mainForm extends javax.swing.JFrame {
             String user = "nstu4student";
             final String pass = "nstu1111";
             String to = txtTo.getText();
-            final String from = "wprince00@gmail.com";
+            final String from = "your@gmail.com";
             String Sub = txtSub.getText();
             String messageText = txtMessage.getText();
             boolean sessionDebug = false;
