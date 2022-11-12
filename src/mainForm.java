@@ -1278,9 +1278,9 @@ public class mainForm extends javax.swing.JFrame {
         try {
             String host = "smtp.gmail.com";
             String user = "nstu4student";
-            final String pass = "nstu1111";
+            final String pass = "password";
             String to = txtTo.getText();
-            final String from = "wprince00@gmail.com";
+            final String from = "addyourmail@gmail.com";
             String Sub = txtSub.getText();
             String messageText = txtMessage.getText();
             boolean sessionDebug = false;
