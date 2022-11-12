@@ -1,4 +1,4 @@
-# JAVA swing project: University Admission Processes Desktop APP
+# JAVA swing project: University Admission Process Desktop APP
 ![image info](project_images/ds.svg)
 <!-- ![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp; -->
 ![Made with JAVA](http://ForTheBadge.com/images/badges/made-with-JAVA.svg)
