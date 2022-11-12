@@ -52,7 +52,7 @@ You check this on your side. But You need to add three jar file.
 * sqlite-jdbc.jar
 * rs2xml.jar
 
-Don't forget to resolve those issue by adding jar files.
+Don't forget to resolve those issue by adding jar files. Change email section of mainform.java file. Go to 1277 you will find the instructions. 
 
 # <a href="https://github.com/ShuvoSahaRoy/Java-Project-Admission-System" ><strong>Project link</strong> </a>
 
