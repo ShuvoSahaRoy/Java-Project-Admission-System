@@ -38,7 +38,7 @@ From here, you can perform all operations like CRUD & search
 
 ![dept](project_images/another_page.png)
 
-> developers
+> Developer
 
 ![dev](project_images/developer.png)
 
@@ -49,12 +49,12 @@ I did this project on Netbeans IDE.
 You check this on your side. But You need to add three jar file.
 
 * mail.jar
-*sqlite-jdbc.jar
-*rs2xml.jar
+* sqlite-jdbc.jar
+* rs2xml.jar
 
 Don't forget to resolve those issue by adding jar files.
 
-# <a href="" ><strong>Project link</strong> </a>
+# <a href="https://github.com/ShuvoSahaRoy/Java-Project-Admission-System" ><strong>Project link</strong> </a>
 
 ---
 
